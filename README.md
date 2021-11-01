@@ -1,2 +1,2 @@
 # private-laboratory
-for private study and research
+用于私人学习和研究~
